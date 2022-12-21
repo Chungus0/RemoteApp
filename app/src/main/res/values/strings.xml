@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RemoteApp</string>
+    <string name="enter_id">Enter your ID</string>
+    <string name="tg">TgChatId</string>
+    <string name="current">Your current ID is: %s</string>
+</resources>
